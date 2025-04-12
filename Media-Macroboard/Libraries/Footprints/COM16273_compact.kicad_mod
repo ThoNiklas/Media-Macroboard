@@ -1,0 +1,264 @@
+(footprint "COM16273_compact"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "COM-16273-7")
+	(tags "Variable Resistor")
+	(property "Reference" "VR1"
+		(at 0 -5 0)
+		(layer "F.SilkS")
+		(uuid "eedc7c9b-ef3c-4fec-8ff1-e759af413da9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "COM-16273"
+		(at -0.75 -1.65 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "526274ad-3570-4a8a-8018-2ec966805d05")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://cdn.sparkfun.com/assets/f/e/3/8/0/3D16A1N-T-50___________.pdf"
+		(at -9.5 -2.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d528b5b-46b2-47d5-b7ac-9b430b83602b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Joystick, 2 - Axis Analog (Resistive) Output"
+		(at -9.5 -2.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1813533b-5fc2-4d06-9a99-002e5e2d844b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "19.5"
+		(at -9.5 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62de0845-6a62-47af-9450-979759bba910")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "474-COM-16273"
+		(at -9.5 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0bc1de07-1681-43a9-a288-ec79b427cd3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/SparkFun/COM-16273?qs=DPoM0jnrROWh8LlDtBljIg%3D%3D"
+		(at -9.5 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5e1b536-b66d-445b-9690-b4399d667412")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "SparkFun"
+		(at -9.5 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "063b143c-fb47-4032-b230-f2b4a2e6a075")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "COM-16273"
+		(at -9.5 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65f189ab-fd35-4978-9f31-ee78a5a75e1a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.5 -3.5)
+		(end -5.5 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ac29e041-3fda-4640-8612-7310b6879215")
+	)
+	(fp_line
+		(start -5.5 -3.5)
+		(end 5 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f21f23db-9d78-4a3c-808b-4ef95e8a881c")
+	)
+	(fp_line
+		(start -5.5 4)
+		(end 5 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "763cea68-649a-42ca-9828-c473886ca8ff")
+	)
+	(fp_line
+		(start 5 4)
+		(end 5 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "81d0ebd4-98ab-4fd7-8632-4c7edfc62cf3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.5 5.5 0)
+		(layer "F.Fab")
+		(uuid "7ec5c356-352a-4502-b282-f4acb1fbe875")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -4 -2.45)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e891cd86-cbfd-4277-8891-95d691ce085d")
+	)
+	(pad "2" thru_hole circle
+		(at -4 0.05)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "71280cf3-cb6b-47c8-9cc0-3165cf896977")
+	)
+	(pad "3" thru_hole circle
+		(at -4 2.55)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d954fa92-161d-4c7a-8fe5-2e291e034a5d")
+	)
+	(pad "4" thru_hole circle
+		(at -1.5 -2.5 270)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8fe1893d-0abe-45c1-ba05-db22e740c16c")
+	)
+	(pad "5" thru_hole circle
+		(at -1.5 0 270)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7e513a51-3318-4f2d-83f7-6282692b3811")
+	)
+	(pad "6" thru_hole circle
+		(at -1.5 2.5 270)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a5b6a97c-5642-4329-a2bb-afc55904f680")
+	)
+	(pad "S1" thru_hole circle
+		(at 1 -2.5)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0bdd9c26-2d5a-4d35-a6ae-a38c7b5f6717")
+	)
+	(pad "S2" thru_hole circle
+		(at 3.5 -2.5)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "09cd1dc5-3df7-4b91-8cec-ffeb1415897e")
+	)
+	(pad "S3" thru_hole circle
+		(at 1 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "20b323c4-a64b-4f08-a96c-6e494e5a8e90")
+	)
+	(pad "S4" thru_hole circle
+		(at 3.5 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5dc2889b-a240-4e12-87fb-03830565b3ca")
+	)
+	(embedded_fonts no)
+	(model "COM-16273.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

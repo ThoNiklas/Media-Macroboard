@@ -1,4 +1,4 @@
-25650517460253187
+25652261906688064
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57469,6 +57469,13 @@ Variable Resistor
 0
 14
 14
+Footprints
+COM16273_compact
+COM-16273-7
+Variable Resistor
+0
+10
+10
 Footprints
 CP2102NA02GQFN20
 QFN20_FFW

@@ -3555,6 +3555,10 @@
 		(uuid "6eb8ea91-61ef-4569-8736-852b68a060a0")
 	)
 	(no_connect
+		(at 214.63 72.39)
+		(uuid "7fa6b099-8a27-4108-bb46-80024ab9065d")
+	)
+	(no_connect
 		(at 99.06 92.71)
 		(uuid "81c34979-10cb-454c-a95a-411719f5a413")
 	)
@@ -3563,8 +3567,16 @@
 		(uuid "93425b23-f9a2-4928-92fc-2cd772a47653")
 	)
 	(no_connect
+		(at 214.63 105.41)
+		(uuid "94068f4e-a5f7-4794-8b70-b49351de0aa8")
+	)
+	(no_connect
 		(at 245.11 107.95)
 		(uuid "96ed5514-3274-4ecb-93a7-c732d8e3b3d5")
+	)
+	(no_connect
+		(at 214.63 110.49)
+		(uuid "a2da2cdb-7dbb-475c-aa9e-54bd31c46230")
 	)
 	(no_connect
 		(at 220.98 144.78)
@@ -3599,8 +3611,16 @@
 		(uuid "d4020a90-3426-4e90-a675-bcde97db4cdb")
 	)
 	(no_connect
+		(at 214.63 107.95)
+		(uuid "e1f6dd30-ef14-4e93-b557-4ddd2d747235")
+	)
+	(no_connect
 		(at 200.66 147.32)
 		(uuid "f9bbad0f-cef3-496c-a900-07602dd2984a")
+	)
+	(no_connect
+		(at 214.63 102.87)
+		(uuid "fa1613b4-347c-4e07-ac9a-afc65fadd07a")
 	)
 	(wire
 		(pts
@@ -4622,16 +4642,6 @@
 		)
 		(uuid "18baf298-75ef-4913-b4ff-6a645aa06682")
 	)
-	(label "LED3"
-		(at 214.63 107.95 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1b388074-caac-4d3e-8a85-93934e297caa")
-	)
 	(label "ROW_3"
 		(at 214.63 100.33 180)
 		(effects
@@ -4692,16 +4702,6 @@
 		)
 		(uuid "30cdca55-71e7-49da-b951-5c681fbeab38")
 	)
-	(label "Light"
-		(at 214.63 72.39 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "381ecbb8-7baa-46b0-b955-7599fe30f152")
-	)
 	(label "CHIP_PU"
 		(at 80.01 151.13 0)
 		(effects
@@ -4721,16 +4721,6 @@
 			(justify left bottom)
 		)
 		(uuid "3eb9a74e-3bbf-43dc-b0b0-4ce5a313a1e8")
-	)
-	(label "LED1"
-		(at 214.63 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "42977c7d-3f13-4b25-8dc1-5d346444d038")
 	)
 	(label "COL_3"
 		(at 138.43 137.16 180)
@@ -5062,16 +5052,6 @@
 		)
 		(uuid "eb2e6ace-08c7-4f79-be57-673bd388da3a")
 	)
-	(label "LED4"
-		(at 214.63 110.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eb58710f-00f0-4a75-a2b5-6a90b0d8874b")
-	)
 	(label "COL_2"
 		(at 138.43 134.62 180)
 		(effects
@@ -5081,16 +5061,6 @@
 			(justify right bottom)
 		)
 		(uuid "ec0f71ad-3c2b-410d-9888-88a7ae0cf806")
-	)
-	(label "LED2"
-		(at 214.63 105.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fd912008-671e-464c-9e14-c268c46f8f63")
 	)
 	(label "RX_TX"
 		(at 99.06 62.23 0)

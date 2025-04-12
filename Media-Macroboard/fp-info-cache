@@ -1,4 +1,4 @@
-25647030284763036
+25650517460253187
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57463,6 +57463,13 @@ Connector
 4
 4
 Footprints
+COM16273
+COM-16273-7
+Variable Resistor
+0
+14
+14
+Footprints
 CP2102NA02GQFN20
 QFN20_FFW
 Integrated Circuit
@@ -70052,6 +70059,13 @@ PCM_Switch_Keyboard_Alps_Matias
 SW_Alps_Matias_ISOEnter
 Alps/Matias keyswitch Keycap ISOEnter
 Alps Matias Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter
+0
+2
+2
+PCM_Switch_Keyboard_Cherry_MX
+SW_Cherry_Compact
+Cherry MX keyswitch PCB Mount Keycap 1.00u
+Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
 0
 2
 2

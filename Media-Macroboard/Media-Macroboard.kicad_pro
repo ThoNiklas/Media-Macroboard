@@ -58,80 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|140930000|57095000|5dd3486c-ebe5-4ebd-abee-da15fcc3fe92|9e8d56c7-9e94-4b2f-ab1d-c46d2171d326",
-          ""
-        ],
-        [
-          "clearance|141530000|56740000|9e8d56c7-9e94-4b2f-ab1d-c46d2171d326|05a6fdc9-6475-47f0-9ea2-f6fbdb29a112",
-          ""
-        ],
-        [
-          "clearance|142130000|57095000|05a6fdc9-6475-47f0-9ea2-f6fbdb29a112|648ced2d-71fe-4da3-84be-1fd95f8b8cd6",
-          ""
-        ],
-        [
-          "clearance|142330000|56740000|05a6fdc9-6475-47f0-9ea2-f6fbdb29a112|f984220b-32e3-4764-9660-f4b165d69a0c",
-          ""
-        ],
-        [
-          "clearance|142530000|57095000|648ced2d-71fe-4da3-84be-1fd95f8b8cd6|f984220b-32e3-4764-9660-f4b165d69a0c",
-          ""
-        ],
-        [
-          "clearance|142730000|57450000|648ced2d-71fe-4da3-84be-1fd95f8b8cd6|9b6da28f-44ae-4900-ae5d-c12c01843d59",
-          ""
-        ],
-        [
-          "clearance|142930000|57095000|f984220b-32e3-4764-9660-f4b165d69a0c|9b6da28f-44ae-4900-ae5d-c12c01843d59",
-          ""
-        ],
-        [
-          "clearance|143530000|57450000|9b6da28f-44ae-4900-ae5d-c12c01843d59|d6c84f15-99b4-45bd-a696-91aca027b691",
-          ""
-        ],
-        [
-          "clearance|144130000|57095000|d6c84f15-99b4-45bd-a696-91aca027b691|992a8ef2-9758-48d7-9f0a-5cee6f7ecaa6",
-          ""
-        ],
-        [
-          "clearance|144330000|57450000|d6c84f15-99b4-45bd-a696-91aca027b691|3fce386c-6239-4e35-a566-9960748b882c",
-          ""
-        ],
-        [
-          "clearance|144530000|57095000|992a8ef2-9758-48d7-9f0a-5cee6f7ecaa6|3fce386c-6239-4e35-a566-9960748b882c",
-          ""
-        ],
-        [
-          "clearance|144730000|56740000|992a8ef2-9758-48d7-9f0a-5cee6f7ecaa6|6932b397-9de3-4ea2-b6bb-c52c387a4f7d",
-          ""
-        ],
-        [
-          "clearance|144930000|57095000|3fce386c-6239-4e35-a566-9960748b882c|6932b397-9de3-4ea2-b6bb-c52c387a4f7d",
-          ""
-        ],
-        [
-          "clearance|145530000|56740000|6932b397-9de3-4ea2-b6bb-c52c387a4f7d|4ccd39ac-ae05-4cf9-b7e4-f8c084760c70",
-          ""
-        ],
-        [
-          "clearance|146130000|57095000|4ccd39ac-ae05-4cf9-b7e4-f8c084760c70|cff31773-aea7-4aa7-b923-2266b8dabe34",
-          ""
-        ],
-        [
-          "silk_edge_clearance|147900000|50000000|357275bd-b2a4-46cc-b097-563632945ad3|92a7d54e-4613-47e4-8c1e-ccba5bbeaeb2",
-          ""
-        ],
-        [
-          "via_dangling|143380000|55210000|0cef6a40-cbb4-4f7d-9042-be0c8c2b0d4f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "via_dangling|144130000|55580000|a7e7fa4c-b694-4f94-9555-042add986220|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -745,7 +672,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
